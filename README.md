@@ -26,7 +26,7 @@
   • 📧 Reach me at: <a href="mailto:iamsneharb@gmail.com" style="color:#00e5ff;">iamsneharb@gmail.com</a> <br>
   • 👨‍💻 Passionate about Java Full Stack Development <br>
   • 💬 Ask me about Java, Spring Boot, Hibernate, and more! <br>
-  • 🧿 Check out my <a href="https://codingwithsneha.github.io/portfolio/" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
+  • 🧿 Check out my <a href="https://sidz111.github.io/softorate/" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
 </p>
 <p align="center" style="color:#ffcc00; font-family:monospace;">🚀 Exploring the Boundaries of Code and Creativity</p>
 
